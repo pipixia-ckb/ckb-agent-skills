@@ -29,6 +29,7 @@ Basic skills maintained in this repo. These serve as foundational examples — c
 
 | Skill | Description |
 |-------|-------------|
+| [CKB Advocate](./skills/ckb-advocate.md) | Technical advocacy workflow for ecosystem engagement |
 | [Idempotent Transfer](./skills/idempotent-transfer.md) | Prevent double-spending when retrying failed transfers |
 
 ## 🚀 Quick Start
